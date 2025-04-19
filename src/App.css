@@ -1,0 +1,17 @@
+.position{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.menubar{
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+@media screen and (max-width:570px) {
+    .menubar{
+        max-width: 86%;
+    }
+}
