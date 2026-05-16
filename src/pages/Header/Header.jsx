@@ -60,7 +60,7 @@ const Header = () => {
             </ul>
           </div>
         </div>
-        <Link to='/' className="btn btn-ghost text-xl btn1">Fake Store</Link>
+        <Link to='/' className="btn btn-ghost text-xl btn1">ShopVerse</Link>
         </div>
       </div>
       <div className="flex gap-3">
